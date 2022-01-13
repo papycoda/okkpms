@@ -35,7 +35,7 @@ nanpy==0.9.6
 oauthlib==3.1.0
 openpyxl==3.0.0
 phonenumbers==8.12.5
-Pillow==7.1.2
+Pillow==9.0.0
 protobuf==3.12.2
 psycopg2==2.8.3
 pyasn1==0.4.7
